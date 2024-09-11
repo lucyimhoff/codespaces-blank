@@ -11,8 +11,6 @@ public class Main
         b = b * 2;
         String e = "b is now: ";
         System.out.println(e + b);
-        a = a * 2
-        System.out.print(a);
         
 
     }
